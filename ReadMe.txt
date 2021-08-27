@@ -13,5 +13,6 @@ How To Run
 cd in to the project directory
 run the following commands
 python manage.py makemigrations
+python manage.py makemigrations core
 python manage.py migrate
 python manage.py runserver
